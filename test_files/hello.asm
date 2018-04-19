@@ -1,0 +1,12 @@
+outb $'H'
+outb $'E'
+outb $'L'
+outb $'L'
+outb $'O'
+outb $' '
+outb $'W'
+outb $'O'
+outb $'R'
+outb $'L'
+outb $'D'
+ret
